@@ -12,12 +12,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://23.137.249.65:444`
 
-* Naaldwijk, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
-  * `tcp://ygg-nl.incognet.io:8883`
-  * `tls://ygg-nl.incognet.io:8884`
-  * `quic://ygg-nl.incognet.io:8885`
-  * `ws://ygg-nl.incognet.io:8886`
-
 * Amsterdam, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://146.103.111.53:65535`
   * `quic://146.103.111.53:65535`
@@ -63,4 +57,4 @@ Yggdrasil configuration file to peer with these nodes.
  
 * Lelystad, Flevoland, Leaseweb dedicated server, Public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
   * `tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
-  * `tls:[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
+  * `tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
